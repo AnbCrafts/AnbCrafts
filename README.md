@@ -1,65 +1,27 @@
-##  Hi, I’m Anubhaw Kumar Gupta (@AnbCrafts)
+# 💫 About Me:
+I’m a Full Stack Developer  who enjoys building practical, well-structured products rather than just demos. I mostly work with the MERN stack, focusing on clean APIs, AI Integration , scalable schemas, efficient backend logic and smooth frontend experiences.<br><br>I’ve been actively building real projects like TrackForge (a bug & team workflow platform) and CodeSage (an AI-powered coding assistant), where I handle everything from database design and backend logic to React-based UI and animations. These projects helped me understand how real-world systems behave beyond tutorials—auth flows, validations, edge cases, and performance trade-offs.<br><br>On the technical side, I’m comfortable with:<br><br>JavaScript / TypeScript<br><br>React, Tailwind CSS, Framer Motion<br><br>Node.js, Express<br><br>MongoDB, SQL & PostgreSQL<br><br>REST APIs, authentication & authorization<br><br>Schema design, validation, and backend utilities<br><br>I also spend time strengthening my core CS fundamentals like DBMS, OS, CN, and DSA, mainly using JavaScript. I enjoy breaking down complex concepts into simpler mental models—whether it’s transactions, memory management, or async behavior in JS.<br><br>Currently, I’m looking for internship opportunities where I can learn from real production code, contribute meaningfully, and grow as a backend/full-stack engineer. I value clarity, consistency, and learning by building.
 
- **Full-Stack Developer | MERN Stack | Problem Solver**
 
-I’m a passionate full-stack developer who enjoys building **real-world, scalable web applications** from scratch — from clean UI/UX to efficient backend APIs and databases. I focus on writing **maintainable code**, designing **practical system architectures**, and continuously improving performance and user experience.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/known_as_anubhaw) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anubhawgupta664@gmail.com) 
 
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AnbCrafts&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AnbCrafts&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnbCrafts&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-###  What I Do
-- Build **full-stack web applications** using modern technologies
-- Design **RESTful APIs** and database schemas
-- Work on **authentication, authorization, payments, and integrations**
-- Optimize performance and improve application reliability
-- Turn ideas into production-ready products
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AnbCrafts&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-###  Tech Stack & Skills
-
-**Frontend**
-- React, Vite, Tailwind CSS
-- Framer Motion, Lucide / Phosphor Icons
-- Responsive & animated UI design
-
-**Backend**
-- Node.js, Express.js
-- REST APIs, MVC architecture
-- Authentication, role-based access
-
-**Databases**
-- MongoDB (Mongoose)
-- PostgreSQL (schema design & relations)
-
-**Tools & Platforms**
-- Git & GitHub
-- Stripe (payments)
-- Render / Cloud deployment
-- Postman, REST testing
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AnbCrafts&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=AnbCrafts&icon=0&color=0)](https://visitcount.itsvg.in)
 
-###  Featured Projects
-- **TrackForge** – Bug tracking & team workflow platform  
-- **CodeSage** – AI-powered code analysis & summarization tool  
-- **Coaching Management Platform** – Multi-panel system (Admin / Teacher / Student)  
-- **E-Commerce & Workflow-based apps**  
-
- Check out my repositories to see **real, production-style code**.
-
----
-
-###  Currently Focused On
-- Advanced backend & system design concepts
-- Scalable database architecture
-- Writing cleaner, more efficient production code
-
----
-
-###  Let’s Connect
--  Email: **anubhawgupta664@gmail.com**
--  GitHub: **https://github.com/AnbCrafts**
-
----
-
- *Always open to internships, entry-level roles, and collaborative projects.*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
