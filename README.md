@@ -1,161 +1,185 @@
-<h1 align="center">Hi 👋, I'm Anubhaw Gupta</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN + AI | System Thinker</h3>
+# Anubhaw Gupta
 
-<p align="center">
-  <a href="mailto:anubhawgupta664@gmail.com">Email</a> • 
-  <a href="https://github.com/AnbCrafts">GitHub</a> • 
-  <a href="https://linkedin.com/in/anubhaw-gupta-b35639249">LinkedIn</a>
-</p>
+Full Stack Engineer specializing in MERN, AI-powered applications, and Cloud Deployment.
+
+I build scalable web applications, architect backend systems, integrate AI services, and deploy production-ready solutions using modern cloud and DevOps practices.
 
 ---
 
-## 🧠 About Me
+## About
 
-🎓 Final-year B.Tech CSE student from Kolkata  
-💻 Full Stack Developer specializing in MERN + AI integrations  
-🚀 Passionate about building **real-world scalable systems**
-
-- Strong in **OOP (C++)**, **DBMS**, and **System Design**
-- Experience in **RBAC systems, API architecture, and dashboards**
-- Focused on **performance, clean code, and UX clarity**
-
-> I don’t just build apps — I build **systems that scale and solve real problems**
+- Full Stack Developer with experience across frontend, backend, databases, cloud infrastructure, and deployment workflows
+- Strong foundation in System Design, REST API Architecture, RBAC Systems, and Database Optimization
+- Experience integrating AI services using OpenAI, Gemini, and Grok APIs
+- Focused on building maintainable, scalable, and performance-oriented applications
 
 ---
 
-## 💼 Experience
+## Core Expertise
 
-### 🧑‍💻 Lead Full Stack Developer (Freelance)
-📍 Remote | 🗓️ Jan 2025 – Present
+### Full Stack Development
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- TypeScript
+- Redux
+- Tailwind CSS
 
-- Led full SDLC of **EdTech + E-commerce platform**
-- Built **RBAC-based architecture** for multi-role systems
-- Designed scalable REST APIs & optimized DB schemas
-- Delivered **admin dashboards with high usability & performance**
+### Backend Engineering
+- REST APIs
+- Authentication & Authorization
+- RBAC Systems
+- API Security
+- Database Design
+- Query Optimization
 
----
+### AI Integration
+- OpenAI API
+- Gemini API
+- Grok API
+- AI-Assisted Applications
+- Prompt Engineering
+- LLM-Based Workflows
 
-## 🚀 Projects
-
----
-
-### 🔥 TrackForge – Bug Tracking & Collaboration Platform
-
-📌 A full-scale system for managing bugs, teams, and workflows
-
-- Role-based access (Admin / Team / Users)
-- Issue tracking, comments, workflow automation
-- Analytics dashboard (priority, progress, distribution)
-- Future-ready architecture (GitHub sync, AI suggestions)
-
-🛠️ Tech: React, Node.js, MongoDB, Tailwind
-
----
-
-### 🤖 CodeSage – AI Code Analyzer
-
-📌 AI-powered developer assistant
-
-- Code explanation using LLM APIs
-- Bug detection & optimization suggestions
-- Real-time analysis engine
-
-🛠️ Tech: React, Express, AI APIs
-
----
-
-### 💼 FitForWork – Job Platform
-
-📌 Recruiter + Candidate system
-
-- Job posting + applications
-- Resume handling + dashboards
-- Filtering + tracking system
-
-🛠️ Tech: MERN Stack
+### Cloud & DevOps
+- Docker
+- Docker Compose
+- AWS
+- Google Cloud Platform (GCP)
+- VPS Management
+- Nginx
+- PM2
+- CI/CD Fundamentals
+- Production Deployment
 
 ---
 
-## 🎨 UI & System Design Philosophy
+## Featured Projects
 
-I focus on building **high-quality UI + strong backend logic**
+### TrackForge
+Enterprise-style Bug Tracking and Team Collaboration Platform
 
-### ✨ UI Principles:
-- Clean, minimal, distraction-free
-- Smooth animations (Framer Motion)
-- Neon futuristic design (custom theme systems)
-- Fully responsive (mobile-first)
+Key Features:
+- Role-Based Access Control
+- Project & Team Management
+- Bug Tracking Workflows
+- Analytics Dashboard
+- Modular Backend Architecture
 
-### ⚙️ Backend Principles:
-- Scalable architecture
-- Modular API design
-- RBAC-based security
-- Optimized DB queries
-- Clean separation of concerns
+Tech Stack:
+React • Node.js • Express • MongoDB • Tailwind CSS
 
----
-
-## 🖼️ Project UI Showcase
-
-### 🌐 Landing & Core Pages
-![Landing](./screenshots/Tlanding.png)
-![Intro](./screenshots/Tintro.png)
-![Dashboard](./screenshots/dashboard.png)
-
-### 🧩 Features & Modules
-![Projects](./screenshots/project.png)
-![Teams](./screenshots/teams.png)
-![Bugs](./screenshots/bugs.png)
-
-### ⚙️ System & Support
-![Login](./screenshots/login.png)
-![Notifications](./screenshots/notification.png)
-![Help](./screenshots/help.png)
+Repository:
+https://github.com/AnbCrafts/TrackForge
 
 ---
 
-## 🛠️ Tech Stack
+### CodeSage
+AI-Powered Code Analysis Platform
 
-### 💻 Languages
-- C++, JavaScript (ES6+)
+Key Features:
+- Source Code Analysis
+- AI-Based Code Explanation
+- Optimization Suggestions
+- Developer Productivity Tools
 
-### 🌐 Frontend
-- React.js, Tailwind CSS, Redux
+Tech Stack:
+React • Express • AI APIs • Tailwind CSS
 
-### 🔧 Backend
-- Node.js, Express.js, TypeScript
-
-### 🗄️ Database
-- MongoDB, MySQL
-
-### ⚙️ Tools & DevOps
-- Git, GitHub, Docker, Postman
-- Vercel, Render
-- OpenAI API, Gemini API
+Repository:
+https://github.com/AnbCrafts/CodeSage
 
 ---
 
-## 📊 What I Bring
+### FitForWork
+Recruitment and Job Management Platform
 
-✔️ Strong problem-solving mindset  
-✔️ Real-world project experience  
-✔️ Scalable system thinking  
-✔️ Clean, maintainable code  
-✔️ Fast learner + execution-focused  
+Key Features:
+- Recruiter Dashboard
+- Candidate Portal
+- Resume Management
+- Job Tracking System
+
+Tech Stack:
+MERN Stack
+
+Repository:
+https://github.com/AnbCrafts/FitFor-Work-updated
+
+---
+
+## Engineering Principles
+
+I focus on:
+
+- Scalable System Design
+- Clean Architecture
+- Maintainable Codebases
+- Performance Optimization
+- Secure Backend Development
+- Production-Ready Deployments
+- User-Centric Product Development
 
 ---
 
-## 📫 Contact Me
+## Tech Stack
 
-📧 Email: **anubhawgupta664@gmail.com**  
-🔗 GitHub: https://github.com/AnbCrafts  
-💼 LinkedIn: https://linkedin.com/in/anubhaw-gupta-b35639249  
+Languages:
+- JavaScript
+- TypeScript
+- C++
+
+Frontend:
+- React.js
+- Redux
+- Tailwind CSS
+- HTML5
+- CSS3
+
+Backend:
+- Node.js
+- Express.js
+
+Databases:
+- MongoDB
+- MySQL
+
+DevOps & Cloud:
+- Docker
+- AWS
+- GCP
+- VPS
+- Nginx
+- PM2
+- Vercel
+- Render
+
+Tools:
+- Git
+- GitHub
+- Postman
 
 ---
 
-## ⚡ Fun Fact
+## Current Focus
 
-I enjoy turning **complex problems into clean, scalable systems** —  
-and making them look 🔥 while doing it.
+- AI-Native Web Applications
+- Agentic Workflows
+- Cloud Infrastructure
+- System Design
+- Full Stack Architecture
+- DevOps Automation
 
 ---
+
+## Contact
+
+LinkedIn:
+www.linkedin.com/in/anubhaw-gupta-dev
+
+GitHub:
+https://github.com/AnbCrafts
+
+Email:
+anubhawgupta664@gmail.com
